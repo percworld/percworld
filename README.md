@@ -27,21 +27,19 @@
     <li>
       🔋  Facilitator of team optimization - Interested in collaborating
      </li>
-    <li> </li>
+    
     <li>
-      - 🔭 I’m currently working on ... AWS Lambda (Faas) and Tail Call Optimization
+       🔭 I’m currently working on ... AWS Lambda (Faas) and Tail Call Optimization
     </li>
     <li>
-      - 🌱 I’m looking forward to learning ... Python, Jamstack!
+       🎯 I’m looking forward to learning ... Python, Jamstack!
     </li>
     <li>
-      - 👯 I’m looking to collaborate on ... Music protfolios for artists
+       🖇 I’m looking to collaborate on ... Music protfolios for artists
     </li>
+    
     <li>
-      - 🤔 I’m looking for help with ... MySQL
-    </li>
-    <li>
-      - 💬 Ask me about ... Express modules and microservice
+       💬 Ask me about ... Express modules and microservice
     <li>
   </ul>
 </p>
