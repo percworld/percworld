@@ -12,7 +12,7 @@
       💻  Front-end Software Engineer, graduate of <a href="https://turing.edu/"> Turing School of Software and Design</a>
     </li>
     <li>
-      🛠  Languages and tools include: React, React Router, React Redux, Redux Toolkit, Context API, TDD, CSS, SaaS, HTML, APIs,
+      🛠  Languages and tools include: Npm, React, React Router, React Redux, Redux Toolkit, Context API, TDD, CSS, SaaS, HTML, APIs,
       Express.js, Git, Github, Heroku, Bootstrap, Webpack, JavaScript, Cypress, Travis CI, C, C++
     </li>
     <li>
