@@ -1,5 +1,5 @@
 
-<h3 align="center">�🥁 Hello, I'm Chuck (he/him) 🥁</h3>
+<h3 align="center">🥁 Hello, I'm Chuck (he/him) 🥁</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=percworld&show_icons=true&theme=dracula"/>
 </p>
@@ -9,10 +9,7 @@
 <p align="center">
   <ul>
     <li>
-      💻  Software Engineer
-    </li>
-    <li>
-        👩🏽‍💻  Front-end engineer, graduate of <a href="https://turing.edu/"> Turing School of Software and Design</a>
+      💻  Front-end Software Engineer, graduate of <a href="https://turing.edu/"> Turing School of Software and Design</a>
     </li>
     <li>
       🛠  Languages and tools include: React, React Router, React Redux, Redux Toolkit, Context API, TDD, CSS, SaaS, HTML, APIs,
@@ -26,8 +23,7 @@
     </li>
     <li>
       🔋  Facilitator of team optimization - Interested in collaborating
-     </li>
-    
+    </li>
     <li>
        🔭 I’m currently working on ... AWS Lambda (Faas) and Tail Call Optimization
     </li>
@@ -36,11 +32,10 @@
     </li>
     <li>
        🖇 I’m looking to collaborate on ... Music protfolios for artists
-    </li>
-    
+    </li> 
     <li>
        💬 Ask me about ... Express modules and microservice
-    <li>
+    </li>
   </ul>
 </p>
 
