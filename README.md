@@ -22,19 +22,22 @@
       🏄🏼‍♂️  Committed to Accessibility 
     </li>
     <li>
-      🔋  Facilitator of team optimization - Interested in collaborating
+      🔋  Facilitator of team collaboration optimization
     </li>
     <li>
-       🔭 I’m currently working on ... AWS Lambda (Faas) and Tail Call Optimization
+       🔭 I’m currently working on ... AWS Lambda (FaaS) and Tail Call Optimization
     </li>
     <li>
        🎯 I’m looking forward to learning ... Python, Jamstack!
     </li>
     <li>
-       🖇 I’m looking to collaborate on ... Music protfolios for artists
+       🖇 I’m looking to collaborate on ... Artist Portfolios and passion projects
     </li> 
     <li>
        💬 Ask me about ... Express modules and microservice
+    </li>
+    <li>
+      🔥 Current Project: A Stridulation sequencer for Billy Martin (a.k.a my man @illyBeats)
     </li>
   </ul>
 </p>
