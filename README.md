@@ -25,9 +25,6 @@
       🔋  Facilitator of team collaboration optimization
     </li>
     <li>
-       🔭 I’m currently working on ... AWS Lambda (FaaS) and Tail Call Optimization
-    </li>
-    <li>
        🎯 I’m looking forward to learning ... Python, Jamstack!
     </li>
     <li>
@@ -37,7 +34,10 @@
        💬 Ask me about ... Express modules and microservice
     </li>
     <li>
-      🔥 Current Project: A Stridulation sequencer for Billy Martin (a.k.a my man @illyBeats)
+       🔭 I’m currently learning ... AWS Lambda (FaaS) and Tail Call Optimization
+    </li>
+    <li>
+      🔥 Current Project ... A Stridulation sequencer for Billy Martin (a.k.a my man @illyBeats)
     </li>
   </ul>
 </p>
