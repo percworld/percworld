@@ -47,7 +47,7 @@
 <h3 align="center">Contact Chuck:</h3>
 
 <p align="center">
-  <a href="mailto:chuck.morris.303@gmail.com" target="_blank"><img alt='turing logo' title='turing.edu' height="50" src="/gmail.png"></a> &nbsp;&nbsp;
+  <a href="mailto:chuckmorrisconga@gmail.com" target="_blank"><img alt='turing logo' title='turing.edu' height="50" src="/gmail.png"></a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/chuck-morris-56819918/" target="_blank"><img alt='turing logo' title='turing.edu' height="50" src="/linkedin.png"></a> &nbsp;&nbsp;
 </p><br>
 
